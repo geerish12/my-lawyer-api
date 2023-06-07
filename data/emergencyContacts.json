@@ -1,0 +1,28 @@
+{"Police Direct Line": ["999","112"],
+"Ambulance": "114",
+"Fire Services": "115",
+"​Crime Stoppers": "148",
+"Police Information Room": ["208 0034", "208 0035"],
+"Toll Free (Complaint)": "8002345",
+
+"Police": {"Nord": ["264 9709", "264971010"],
+"South": ["627 7216", "627 3112"],
+"Central": ["676 5116", "670 3112"],
+"East": ["413 0944", "413 0279"],
+"West": ["466 1764", "467 9884"],
+"Port Louis (South)": ["211 8849", "208 1212", "ext -1312"],
+"Port Louis (North)": ["217 0941", "217 4214", "217 4215"],
+"ADSU (Guard Room)": ["208 1212", "208 1212", "ext - 1509 / 1242"],
+"ERS Headquarters - (Vacoas)": ["686 5500", "686 5712", "698 1040"],
+"Central CID": ["208 1212", "ext - 1317"],
+"Traffic": ["211 8434", "211 8478"],
+"SMF": ["686 6305", "686 6308"],
+"NCG": ["280 8317", "212 2747"],
+"SSU": ["208 1212", "ext- 1365 / 1538"],
+"Port Police": ["242 5546", "242 3113"],
+"Police Family Protection Unit": ["210 2116", "210 2122"],
+"Brigade des Mineurs": ["213 4093"],
+"Police du Tourisme": ["213 1740", "210 3894"],
+"Police de L'Environment": ["210 5151", "210 5252"]
+}
+}
