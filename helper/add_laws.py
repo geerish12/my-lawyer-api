@@ -13,7 +13,7 @@ with open('data/constitution2.json', encoding='utf-8') as json_file:
 
 # Iterate over the data and add documents to Firestore
 for article, content in data.items():
-    doc_ref = db.collection("constitutions").document(article)
+    doc_ref = db.collection("constitution_ch1").document(article)
     doc_ref.set({
         "information": content
     })
