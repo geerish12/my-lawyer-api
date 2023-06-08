@@ -8,12 +8,12 @@ firebase_admin.initialize_app(cred)
 db = firestore.client()
 
 # Load data from JSON file with explicit character encoding
-with open('data/chapter2.json', encoding='utf-8') as json_file:
+with open('data/chapter8.json', encoding='utf-8') as json_file:
     data = json.load(json_file)
 
 # Iterate over the data and add documents to Firestore
 for article, content in data.items():
-    doc_ref = db.collection("constitution_ch2").document(article)
+    doc_ref = db.collection("constitution_ch8").document(article)
     doc_ref.set({
         "information": content
     })
